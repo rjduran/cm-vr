@@ -36,6 +36,20 @@ This example demonstrates how to detect triggers using colliders.
 
 The trigger methods are used to detect when another object's collider hits them. Sphere G has a RigidBody component and is setup to use (Gravity), it's collider is not setup to be a trigger. Sphere H is not using gravity but it's collider is set to be a trigger.
 
+## Example_06
+
+This example demonstrates a way to make objects oscillate in the X, Y, and Z dimensions. To learn more about Sine and Cosine functions and oscillations in general, read through the Processing [Trigonometry Primer](http://natureofcode.com/book/chapter-3-oscillation/) and [Nature of Code - Chapter 3: Oscillation](http://natureofcode.com/book/chapter-3-oscillation/). These tutorials are in the Processing (Java) language but the concepts apply to any programming language.
+
+* Amplitude = max/min range that the object will move
+* Speed = How fast the object will move
+
+## Example_05
+
+This example demonstrates a way to make objects oscillate in the X, Y, and Z dimensions. There are toggles for the X, Y, and Z directions as well as amplitude adjustments for each and divisors for the Sin or Cos functions.
+
+* Amplitude = max/min range that the object will move
+* Speed = How fast the object will move
+
 
 
 
