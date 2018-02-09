@@ -45,9 +45,9 @@ Top Level Folder
 
   This will affect the following lines in your editor settings file:
     
-    * `ProjectSettings/EditorSettings.asset`
-    * `m_ExternalVersionControlSupport: Visible Meta Files`
-    * `m_SerializationMode: 2`
+    `ProjectSettings/EditorSettings.asset`
+    `m_ExternalVersionControlSupport: Visible Meta Files`
+    `m_SerializationMode: 2`
      
   If you’re curious, you can read more about Unity’s YAML scene format in the [Unity Manual](https://docs.unity3d.com/Manual/FormatDescription.html).
 
