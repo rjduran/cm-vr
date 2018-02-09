@@ -43,7 +43,7 @@ This example demonstrates a way to make objects oscillate in the X, Y, and Z dim
 * Amplitude = max/min range that the object will move
 * Speed = How fast the object will move
 
-## Example_05
+## Example_07
 
 This example demonstrates a way to make objects oscillate in the X, Y, and Z dimensions. There are toggles for the X, Y, and Z directions as well as amplitude adjustments for each and divisors for the Sin or Cos functions.
 
