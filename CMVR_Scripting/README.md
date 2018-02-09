@@ -38,7 +38,7 @@ The trigger methods are used to detect when another object's collider hits them.
 
 ## Example_06
 
-This example demonstrates a way to make objects oscillate in the X, Y, and Z dimensions. To learn more about Sine and Cosine functions and oscillations in general, read through the Processing [Trigonometry Primer](http://natureofcode.com/book/chapter-3-oscillation/) and [Nature of Code - Chapter 3: Oscillation](http://natureofcode.com/book/chapter-3-oscillation/). These tutorials are in the Processing (Java) language but the concepts apply to any programming language.
+This example demonstrates a way to make objects oscillate in the X, Y, and Z dimensions. To learn more about Sine and Cosine functions and oscillations in general, read through the [Processing Trigonometry Primer](https://processing.org/tutorials/trig/) and [Nature of Code - Chapter 3: Oscillation](http://natureofcode.com/book/chapter-3-oscillation/). These tutorials are in the Processing (Java) language but the concepts apply to any programming language.
 
 * Amplitude = max/min range that the object will move
 * Speed = How fast the object will move
