@@ -8,13 +8,15 @@ public class Oscillator : MonoBehaviour {
     public float ampY = 1.0f; // Amplitude Y
     public float ampZ = 1.0f; // Amplitude Z
 
-    public float speed = 3.14f; // Speed
+    public float speed = 2.0f; // Speed
     public float divX = 1.0f;
     public float divY = 1.0f;
     public float divZ = 1.0f;
 
-    public bool toggleX, toggleY, toggleZ;
-    public bool makeLittle;
+    public bool toggleX = true;
+    public bool toggleY = false;
+    public bool toggleZ = false;
+    public bool makeLittle = false;
 
     private Vector3 startPos;
     private Vector3 startScale;
@@ -23,13 +25,6 @@ public class Oscillator : MonoBehaviour {
     {
         startPos = transform.position; // get current position
         startScale = transform.localScale; //  get current scale
-        toggleX = true;
-        toggleY = false;
-        toggleZ = false;
-        makeLittle = false;
-        divX = 1.0f;
-        divY = 1.0f;
-        divZ = 1.0f;
     }
 
     void Update()

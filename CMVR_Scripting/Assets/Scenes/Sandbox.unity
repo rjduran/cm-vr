@@ -743,7 +743,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &481363147
 Transform:
   m_ObjectHideFlags: 0
@@ -1369,11 +1369,11 @@ MonoBehaviour:
   ampX: 1
   ampY: 1
   ampZ: 1
-  speed: 3.14
+  speed: 2
   divX: 1
   divY: 1
   divZ: 1
-  toggleX: 0
+  toggleX: 1
   toggleY: 0
   toggleZ: 0
   makeLittle: 0
@@ -2797,11 +2797,11 @@ MonoBehaviour:
   ampX: 1
   ampY: 1
   ampZ: 1
-  speed: 2
-  divX: 0
-  divY: 0
-  divZ: 0
-  toggleX: 0
+  speed: 3
+  divX: 1
+  divY: 1
+  divZ: 1
+  toggleX: 1
   toggleY: 0
   toggleZ: 0
   makeLittle: 0
