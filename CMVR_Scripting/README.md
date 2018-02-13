@@ -62,6 +62,14 @@ This example is similar to Example_08 with the addition of two more boxes (yello
 
 This example demonstrates a way to make an object teleport to any defined location. The location is determined using a random value between 0 and the size of the array holding the defined locations. In this the locations are adjusted slightly in either the X or Z directions to reduce the chance of landing in the same teleporter that you just came out of. It will still happen but not as often.
 
+## Example_11 : Distance
+
+This example demonstrates a way to calculate the distance between two objects.
+
+## Example_12 : Distance Action
+
+This example demonstrates a way to calculate the distance between two objects and make choices about what to do at different distances from an object. 
+
 
 
 
