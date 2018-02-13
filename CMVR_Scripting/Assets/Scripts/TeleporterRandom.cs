@@ -9,7 +9,7 @@ public class TeleporterRandom : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {     
-        // Define the side of the array before putting values into it
+        // Define the size of the array before putting values into it
         pos = new Vector3[4];
 
         // Fill array with Vector3 objects
