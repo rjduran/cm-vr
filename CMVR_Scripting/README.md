@@ -2,7 +2,7 @@
 
 This directory contains examples of useful scripts of game mechanics for developing virtual worlds.
 
-Toggle on/off each example by clicking the enable/disable checkbox of with key command **Shift + Option + A** (macOS).
+Toggle on/off each example by clicking the enable/disable checkbox in the inspector or with key command **Shift + Option + A** (macOS).
 
 These were built using Unity 2017.3.0f3.
 
