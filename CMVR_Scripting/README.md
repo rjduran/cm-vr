@@ -68,7 +68,11 @@ This example demonstrates a way to calculate the distance between two objects.
 
 ## Example_12 : Distance Action
 
-This example demonstrates a way to calculate the distance between two objects and make choices about what to do at different distances from an object. 
+This example demonstrates a way to calculate the distance between two objects and make choices about what to do at different distances from an object.
+
+## Example_13 : Teleporter Target
+
+This example is similar to Example_08 : Teleporter. It teleports an object to a new location when entering a trigger collider. The "Target" gameobject must be specified in the inspector. The example contains two Cube game objects to assign as a target.
 
 
 
