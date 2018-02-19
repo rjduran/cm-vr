@@ -8,6 +8,8 @@ These were built using Unity 2017.3.0f3.
 
 ## Example_01 : Detect Triggers
 
+![](../gifs/CMVR_Scripting_example_01.gif)
+
 This example demonstrates how to detect triggers using colliders. It also demonstrates how to move an object and a set of lights around with the keyboard arrows.
 
 The trigger methods are used to detect when another object's collider hits them but without use of the physics engine. This means each Cube object being hit by the Sphere object contains a RigidBody component that (Is Kinematic) and contains a Collider that (Is Trigger).
