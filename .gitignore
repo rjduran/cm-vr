@@ -92,3 +92,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Unity3D Project Files and Folders
+Logs
+Packages
+
+CMMR_MagicLeap
+tutorials
