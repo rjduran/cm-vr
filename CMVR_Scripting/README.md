@@ -4,7 +4,7 @@ This directory contains examples of useful scripts of game mechanics for develop
 
 Toggle on/off each example by clicking the enable/disable checkbox in the inspector or with key command **Shift + Option + A** (macOS).
 
-These were built using Unity 2017.3.0f3.
+These were built using Unity 2018.3.6f1.
 
 ## Example_01 : Detect Triggers
 
